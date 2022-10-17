@@ -8,7 +8,7 @@
 
 ## Бонусные задания 
 - На экран со списком необходимо реализовать изменение оценки путем нажатия на нужную отметку в звездочках.
--Добавить индекс для быстрого поиска по году (https://developer.apple.com/documentation/uikit/uitableviewdatasource/1614857-sectionindextitles https://developer.apple.com/documentation/uikit/uitableviewdatasource/1614933-tableview)
+- Добавить индекс для быстрого поиска по году (https://developer.apple.com/documentation/uikit/uitableviewdatasource/1614857-sectionindextitles https://developer.apple.com/documentation/uikit/uitableviewdatasource/1614933-tableview)
 
 ## За что могут сниматься баллы
 - `Warnings` в проекте, которые можно исправить. 
